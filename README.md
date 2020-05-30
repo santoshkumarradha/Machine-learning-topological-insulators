@@ -6,9 +6,9 @@ Main model development is in `CNN_modules.py`
 
 Sample architecture 
 
-<p align="center">
-  <img width="50%" height="auto" src="figs/nn-archi.svg">
-</p>
+
+  <img width="70%" height="auto" src="figs/nn-archi.svg">
+
 
 ### Example
 
